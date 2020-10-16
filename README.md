@@ -1,12 +1,11 @@
 <!-- VARS -->
-[Logo svg]: https://github.com/Juniorkk/Happy/blob/master/public/images/map-marker.svg
+[Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logo.png
 <!-- VARS -->
 
 
 <div align="center">
             
- # ![Logo svg] Happy
- ![](https://www.figma.com/file/bkWnAyGsE1xJRkvsM49jFw/Happy-Web-Copy?node-id=48557%3A657)
+ # ![Logo] Happy
  
  </div>
 
