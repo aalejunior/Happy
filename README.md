@@ -5,7 +5,8 @@
 
 <div align="center">
             
- # ![Logo svg]Happy    
+ # ![Logo svg] Happy
+ ![](https://www.figma.com/file/bkWnAyGsE1xJRkvsM49jFw/Happy-Web-Copy?node-id=48557%3A657)
  
  </div>
 
