@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 <!-- VARS -->
 [Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logow.png
 [js]: https://img.shields.io/badge/JS-Frontend_and_backend-yellow?style=for-the-badge&logo=javascript
@@ -30,4 +29,5 @@ Happy é um projeto que foi desenvolvido durante a **Next Level Week #3** da [@R
 Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando Html5, CSS3 e Java Script, criando as versões Web, Mobile e Back-End da aplicação com acesso ao banco de dados SQLite.
 
 ---
->>>>>>> ccb9eb7518d70333bbbf21997c1b4df7acd40d7d
+
+
