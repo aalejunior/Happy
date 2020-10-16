@@ -1,8 +1,9 @@
 <!-- VARS -->
 [Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logow.png
-[js]: https://img.shields.io/badge/Java_script-Web-yellow?style=for-the-badge&logo=javascript
-[css]: https://img.shields.io/badge/CSS-Web-blue?style=for-the-badge&logo=css3
-[html]:https://img.shields.io/badge/html-Web-orange?style=for-the-badge&logo=html5
+[js]: https://img.shields.io/badge/JS-Frontend_and_backend-yellow?style=for-the-badge&logo=javascript
+[css]: https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3
+[html]:https://img.shields.io/badge/html5-Web_whith_handlebars-orange?style=for-the-badge&logo=html5
+[sqlite]:https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite
 <!-- VARS -->
 
 
@@ -13,6 +14,7 @@
  ![html]
  ![css]
  ![js]
+ ![sqlite]
 
  </div>
 
