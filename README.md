@@ -1,11 +1,11 @@
 <!-- VARS -->
-[Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logo.png
+[Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logow.png
 <!-- VARS -->
 
 
 <div align="center">
             
- # ![Logo] Happy
+ # ![Logo]
  
  </div>
 
