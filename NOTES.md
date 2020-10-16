@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## Layout 
 
 https://www.notion.so/Layout-Happy-Discovery-ce58c48280d34d249656565eabc5397f
@@ -18,5 +19,3 @@ https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64
 ## Banco de dados
 
 https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8
-
-
