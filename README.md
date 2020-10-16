@@ -5,8 +5,7 @@
 
 <div align="center">
             
- # Happy 
- ![Logo svg]   
+ # Happy ![Logo svg]   
  
  </div>
 
