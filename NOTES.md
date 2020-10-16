@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 ## Layout 
 
 Link para [Layout da Happy](https://www.notion.so/Layout-Happy-Discovery-ce58c48280d34d249656565eabc5397f)
