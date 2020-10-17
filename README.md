@@ -30,7 +30,7 @@ Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zer
 
 <br>
 
-## Getting Started
+## :rocket: Getting Started
 
 - Use  `git clone https://github.com/Juniorkk/Happy.git` para uma cópia do repositório
 
