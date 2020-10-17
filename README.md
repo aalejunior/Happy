@@ -28,6 +28,18 @@ Happy é um projeto que foi desenvolvido durante a **Next Level Week #3** da [@R
 
 Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando Html5, CSS3 e Java Script, criando as versões Web, Mobile e Back-End da aplicação com acesso ao banco de dados SQLite.
 
----
+<br>
+
+## Getting Started
+
+Use  `git clone https://github.com/Juniorkk/Happy.git` para uma cópia do repositório
+
+Vá para um diretório apropriado `cd Happy` <br>
+
+### Getting Started with Front-end
+
+No terminal ou editor de códigos execute `npm start`
+
+
 
 
