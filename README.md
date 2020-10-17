@@ -1,17 +1,22 @@
 
 <!-- VARS -->
+
 [Logo]: https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/logow.png
 [js]: https://img.shields.io/badge/JS-Frontend_and_backend-yellow?style=for-the-badge&logo=javascript
 [css]: https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3
 [html]:https://img.shields.io/badge/html5-Web_whith_handlebars-orange?style=for-the-badge&logo=html5
 [sqlite]:https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite
+
 <!-- VARS -->
 
 
 <div align="center">
             
  # ![Logo]
- 
+ ![html]
+ ![css]
+ ![js]
+ ![sqlite]    
  </div>
 
  ---
@@ -25,14 +30,8 @@ Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zer
 
 ---
 
-<div align="center>
- ![html]
- ![css]
- ![js]
- ![sqlite]    
- </div>
+
             
- <br>
 
 <div aling="center">
 <img src="https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/Home.png" alt="Landing page">
