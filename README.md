@@ -32,13 +32,13 @@ Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zer
 
 ## Getting Started
 
-Use  `git clone https://github.com/Juniorkk/Happy.git` para uma cópia do repositório
+- Use  `git clone https://github.com/Juniorkk/Happy.git` para uma cópia do repositório
 
-Vá para um diretório apropriado `cd Happy` <br>
+- Vá para um diretório apropriado `cd Happy` <br>
 
 ### Getting Started with Front-end
 
-No terminal ou editor de códigos execute `npm start`
+- No terminal ou editor de códigos execute `npm start`
 
 
 
