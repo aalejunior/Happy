@@ -28,6 +28,10 @@ Happy é um projeto que foi desenvolvido durante a **Next Level Week #3** da [@R
 
 Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando Html5, CSS3 e Java Script, criando as versões Web, Mobile e Back-End da aplicação com acesso ao banco de dados SQLite.
 
+<div aling="center">
+<img src="./.github/docs/img/home.png" alt="Landing page" height=425>
+</div>
+
 <br>
 
 ## Getting Started
