@@ -22,11 +22,11 @@
  ---
 
 
-### Plataforma que conecta pessoas com orfanatos próximos para realizarem visitas ou adotar crianças.
+### Aplicação que conecta pessoas com orfanatos próximos para realizarem visitas ou adotar crianças.
 
-Happy é um projeto que foi desenvolvido durante a **Next Level Week #3** da [@Rocketseat](https://github.com/Rocketseat), durante os dias _12 à 18 de Outubro de 2020_.
+Happy foi um projeto desenvolvido durante a **Next Level Week #3** da [@Rocketseat](https://github.com/Rocketseat), durante os dias _12 à 18 de Outubro de 2020_.
 
-Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando Html5, CSS3 e Java Script, criando as versões Web, Mobile e Back-End da aplicação com acesso ao banco de dados SQLite.
+Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando HTML5 com Handlebars, CSS3 e Java Script, criando as versões Web partindo do mobile-frist para Front-end. O Java Script também foi usado no Back-end aplicação para acessarmos o banco de dados com o SQLite.
 
 <div aling="center">
 <img src="https://github.com/Juniorkk/Happy/blob/master/.github/docs/img/Home.png" alt="Landing page">
