@@ -13,13 +13,9 @@
 <div align="center">
             
  # ![Logo]
- ![html]
- ![css]
- ![js]
- ![sqlite]    
+    
  </div>
 
- ---
 
 
 ### Aplicação que conecta pessoas com orfanatos próximos para realizarem visitas ou adotar crianças.
@@ -28,9 +24,15 @@ Happy foi um projeto desenvolvido durante a **Next Level Week #3** da [@Rocketse
 
 Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando HTML5 com Handlebars, CSS3 e Java Script, criando as versões Web partindo do mobile-frist para Front-end. O Java Script também foi usado no Back-end aplicação para acessarmos o banco de dados com o SQLite.
 
+<div aling="center>
+
+![html]
+![css]
+![js]
+![sqlite] 
+
+</div>
 ---
-
-
             
 
 <div aling="center">
@@ -39,15 +41,20 @@ Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zer
 
 <br>
 
-## :rocket: Getting Started
+## :rocket: Inicando o projeto
 
-- Use  `git clone https://github.com/Juniorkk/Happy.git` para uma cópia do repositório
+Para iniciar o projeto é necessário o [NodeJS](https://nodejs.org/en/) na sua máquina
 
-- Vá para o diretório apropriado `cd Happy` <br>
+- Faça um clone desse repositóiro usando  `git clone https://github.com/Juniorkk/Happy.git` 
 
-### Getting Started with Front-end
+- Vá para o diretório apropriado que é `cd Happy` <br>
 
-- No terminal ou editor de códigos execute `npm start`
+- Instale a dependência Nodemon usando `npm install nodemon`
+
+- E execute `npm start` para abrir a aplicação 
+
+<br>
+
 
 
 
