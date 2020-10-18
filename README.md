@@ -8,8 +8,10 @@
 
 <!-- VARS -->
 
-<div align="center">           
+<div align="center">    
+
  # ![Logo] 
+
  </div>
 
 ### Aplicação que conecta pessoas com orfanatos próximos para realizarem visitas ou adotar crianças.
@@ -18,14 +20,7 @@ Happy foi um projeto desenvolvido durante a **Next Level Week #3** da [@Rocketse
 
 Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zero usando HTML5 com Handlebars, CSS3 e Java Script, criando as versões Web partindo do mobile-frist para Front-end. O Java Script também foi usado no Back-end aplicação para acessarmos o banco de dados com o SQLite.
 
-<div aling="center>
-
-![html]
-![css]
-![js]
-![sqlite]
-
-</div>
+![html] ![css] ![js] ![sqlite]
 
 
 <div aling="center">
