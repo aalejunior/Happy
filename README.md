@@ -41,7 +41,7 @@ Este projeto foi codado na trilha Discovery, que desenvolve a aplicação do zer
 
 <br>
 
-## :rocket: Inicando o projeto
+## :rocket: Iniciando o projeto
 
 Para iniciar o projeto é necessário o [NodeJS](https://nodejs.org/en/) na sua máquina
 
